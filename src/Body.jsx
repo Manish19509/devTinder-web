@@ -8,8 +8,8 @@ function Body() {
     <div>
       <NavBar />
       {/* any childern routes of body will render here in Outlet */}
-      <Outlet /> 
-      <Footer/>
+      <Outlet />
+      <Footer />
     </div>
   );
 }
