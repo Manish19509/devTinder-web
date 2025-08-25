@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 notes.md
-
+componentDesign.md
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
